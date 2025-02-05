@@ -29,6 +29,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.1"
+    "dotenv": "^16.4.7",
+    "electron-squirrel-startup": "^1.0.1",
+    "openai": "^4.82.0"
   }
 }
